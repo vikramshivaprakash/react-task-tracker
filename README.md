@@ -1,3 +1,7 @@
+ React task tracker app using components, props, state, hooks, working with an API and more.
+![image](https://user-images.githubusercontent.com/13215673/153338806-f869c32f-dff6-4064-9bcc-75bfbceed982.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
